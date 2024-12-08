@@ -1,5 +1,0 @@
-#!/bin/bash
-# open
-
-cd Desktop/Main/Local-Repositories/piano
-open .
