@@ -9,4 +9,4 @@ The top voice states the theme in G Harmonic Minor: three repetitions of the fif
 > - Three note repetition of the fifth and a jump down to the root.
 > - Three note repetition of the root, interjected with a half-step down and back up, followed by a jump down to the fifth.
 >
-> *Everything* is going according to **plan**.
+> The *root* and *fifth* make for a very strong **theme**.
