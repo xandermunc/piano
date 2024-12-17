@@ -6,7 +6,7 @@ The top voice states the theme in G Harmonic Minor: three repetitions of the fif
 
 > #### Themes
 >
-> - theme 1.
-> - theme 2.
+> - Three note repetition of the fifth and a jump down to the root.
+> - Three note repetition of the root, interjected with a half-step down and back up, followed by a jump down to the fifth.
 >
 > *Everything* is going according to **plan**.
