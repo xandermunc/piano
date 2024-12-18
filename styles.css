@@ -29,6 +29,7 @@ p {
     font-size: 1em;
     color: black;
     transition: all 0.2s ease;
+    text-decoration: none;
 }
 
 a:hover {
