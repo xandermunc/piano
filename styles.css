@@ -44,5 +44,9 @@ audio {
 @media (max-width: 900px) {
     img {
         width: 100vw;
-    }    
+    }
+
+    iframe {
+        width: 90%;
+    } 
 }
