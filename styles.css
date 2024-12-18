@@ -11,7 +11,16 @@ body {
     justify-content: center;
     align-items: center;
     width: 100vw;
-    height: 100vh;
+}
+
+.frame {
+    background-color: #eee;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 100vw;
+    height: 100vh; 
 }
 
 a,
@@ -41,6 +50,29 @@ audio {
     margin-bottom: 50px;
 }
 
+video {
+    width: 50%;
+    height: auto;
+}
+
+.grid {
+    display: grid;
+    grid-template-columns: auto auto;
+    gap: 20vw;
+}
+
+.column {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.padding {
+    width: 100vw;
+    height: 100px;
+}
+
 @media (max-width: 900px) {
     img {
         width: 100vw;
@@ -49,4 +81,17 @@ audio {
     iframe {
         width: 90%;
     } 
+<<<<<<< Updated upstream
+=======
+
+    .grid {
+        display: flex;
+        flex-direction: column;
+        gap: 100px;
+    }
+
+    video {
+        width: 90%;
+    }
+>>>>>>> Stashed changes
 }
