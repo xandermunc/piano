@@ -4,7 +4,9 @@ The top voice states the theme in G Harmonic Minor: three repetitions of the fif
 
 ## Notes
 
-In measure one I let the repetition of the three thirds pass as the first third is major and the following two are minor. In a Harmonic Minor context passing through alternating thirds in succession feels fitting. However, In most other contexts I would avoid more than two thirds in a row. 
+In measure one I let the repetition of the three thirds pass as valid, as the first third is major and the following two are minor. In a Harmonic Minor context passing through alternating thirds in succession feels fitting. However, In most other contexts I would avoid more than two thirds in a row. 
+
+Also in measure one I resolve the jump down to the root by a jump up a minor third. This would be avoidable if not for it outlining the chord's triad. In most cases I would resolve a leap of a fifth with stepwise motion in the opposite direction. I use the same chord outline in measure two and three. And in measure four I jump downward a second time following the leap from the fifth to land on the Bb, the same note on the same beat as in the other G minor measures, to outline the chord change. The repetition of this rule break lends it credibility as a musical decision. 
 
 ![file](Imitative_Counterpoint_G-Minor_Op-1_White.png)
 
