@@ -81,8 +81,6 @@ video {
     iframe {
         width: 90%;
     } 
-<<<<<<< Updated upstream
-=======
 
     .grid {
         display: flex;
@@ -93,5 +91,4 @@ video {
     video {
         width: 90%;
     }
->>>>>>> Stashed changes
 }
