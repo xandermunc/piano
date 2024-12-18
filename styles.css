@@ -28,6 +28,7 @@ a:hover {
 
 iframe {
     border: none;
+    background-color: none;
     width: 54%;
     filter: invert(100%);
 }
@@ -38,4 +39,10 @@ img {
 
 audio {
     margin-bottom: 50px;
+}
+
+@media (max-width: 900px) {
+    img {
+        width: 100%;
+    }    
 }
