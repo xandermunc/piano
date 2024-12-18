@@ -43,6 +43,6 @@ audio {
 
 @media (max-width: 900px) {
     img {
-        width: 100%;
+        width: 100vw;
     }    
 }
