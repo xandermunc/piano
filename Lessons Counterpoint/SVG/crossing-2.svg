@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="b" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 144.89 73.86">
+  <defs>
+    <style>
+      .d {
+        fill: none;
+        stroke: #000;
+        stroke-miterlimit: 10;
+        stroke-width: 2px;
+      }
+    </style>
+  </defs>
+  <g id="c" data-name="Layer 1">
+    <line class="d" x1=".45" y1=".97" x2="144.45" y2="36.97"/>
+    <line class="d" x1=".45" y1="72.97" x2="144.45" y2=".97"/>
+  </g>
+</svg>

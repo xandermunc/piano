@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="b" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 146.21 73.33">
+  <defs>
+    <style>
+      .d {
+        stroke-width: 2.58px;
+      }
+
+      .d, .e {
+        fill: none;
+        stroke: #000;
+        stroke-miterlimit: 10;
+      }
+
+      .e {
+        stroke-width: 2.58px;
+      }
+    </style>
+  </defs>
+  <g id="c" data-name="Layer 1">
+    <path class="e" d="M1.11.66s27,45,72,45S145.11.66,145.11.66"/>
+    <path class="d" d="M145.11,72.66s-27-45-72-45S1.11,72.66,1.11,72.66"/>
+  </g>
+</svg>
