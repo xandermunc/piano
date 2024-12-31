@@ -64,7 +64,7 @@ img.grid {
 }
 
 img.title {
-    padding-bottom: 20px;
+    margin-bottom: 20px;
 }
 
 audio {
@@ -206,6 +206,10 @@ blockquote {
 @media (max-width: 900px) {
     img {
         width: 100vw;
+    }
+
+    img.title {
+        width: 80vw;
     }
 
     .text {
