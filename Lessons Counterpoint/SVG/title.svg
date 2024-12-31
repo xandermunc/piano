@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="b" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 504 128">
+  <defs>
+    <style>
+      .d {
+        stroke: #09f;
+      }
+
+      .d, .e {
+        fill: none;
+        stroke-miterlimit: 10;
+        stroke-width: 2px;
+      }
+
+      .e {
+        stroke: #000;
+      }
+    </style>
+  </defs>
+  <g id="c" data-name="Layer 1">
+    <line class="e" y1="28" x2="504" y2="28"/>
+    <line class="e" x1="0" y1="46" x2="504" y2="46"/>
+    <line class="e" x1="0" y1="64" x2="504" y2="64"/>
+    <line class="e" x1="0" y1="82" x2="504" y2="82"/>
+    <line class="e" x1="0" y1="100" x2="504" y2="100"/>
+    <path class="d" d="M72,1c45,0,45,54,90,54S207,1,251.99,1s45,54,90,54S387,1,432,1"/>
+    <path class="d" d="M432,127c-45,0-45-54-90-54s-45,54-90,54-45-54-90-54-45,54-90,54"/>
+  </g>
+</svg>

@@ -60,9 +60,11 @@ img {
 }
 
 img.grid {
-    /* height: 3em; */
     width: 7em;
-    /* margin-left: 100px; */
+}
+
+img.title {
+    padding-bottom: 20px;
 }
 
 audio {
@@ -110,12 +112,6 @@ video {
 .column {
     display: flex;
     flex-direction: column;
-    justify-content: center;
-}
-
-.row {
-    display: flex;
-    flex-direction: row;
     justify-content: center;
 }
 
