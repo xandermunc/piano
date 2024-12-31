@@ -87,6 +87,14 @@ video {
     gap: 10vw;
 }
 
+.grid-one {
+    display: grid;
+    grid-template-columns: auto;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    gap: 10vw;
+}
+
 .grid-three {
     display: grid;
     grid-template-columns: auto auto auto;

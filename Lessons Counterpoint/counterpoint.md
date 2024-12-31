@@ -46,7 +46,7 @@ There are three types of melodic motion for the movement of the voices to be cat
 
 *Contrapuntal composition favors melodic lines that move in **contrary motion**, and the overall shape of the counterpoint should be contrary to the cantus firmus.*
 
-The counterpoint cannot cross melodic paths with the cantus firmus (i.e. the upper voice plays below a given note of the lower voice, or the lower plays above the upper voice), however, unison between the voices is allowed (i.e. playing the same note). 
+The counterpoint cannot cross melodic paths with the cantus firmus (i.e. the upper voice plays below a given note of the lower voice, or the lower plays above the upper voice). However, unison between the voices is allowed (i.e. playing the same note). 
 
 *The caliber of the melody can be thought of as its '**horizontal strength**', as a melody unfolds horizontally through the notation.*
 
